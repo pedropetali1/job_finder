@@ -17,22 +17,6 @@
 - **Banco de Dados**: Sequelize (ORM) com MySQL
 - **Controle de Versionamento**: Git e GitHub
 
-## 📂 Estrutura do Projeto
-
-job_finder/
-├── views/               # Páginas e templates em Handlebars  
-│   ├── layouts/         # Layouts principais do site  
-│   ├── partials/        # Componentes reutilizáveis  
-│   └── index.handlebars # Página principal  
-├── public/              # Arquivos estáticos (CSS, JS, imagens)  
-├── routes/              # Definição das rotas (endpoints da API)  
-├── models/              # Modelos do Sequelize para o banco de dados  
-├── db/                  # Conexão e configuração do banco de dados  
-├── .gitignore           # Arquivos e pastas ignoradas pelo Git  
-├── app.js               # Arquivo principal da aplicação (inicializa o servidor)  
-├── package.json         # Configurações e dependências do projeto  
-└── README.md            # Documentação do projeto  
-
 ## 🛠️ Instalação e Configuração
 
 Siga os passos abaixo para rodar o projeto localmente:
