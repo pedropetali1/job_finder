@@ -17,6 +17,10 @@
 - **Banco de Dados**: Sequelize (ORM) com MySQL
 - **Controle de Versionamento**: Git e GitHub
 
+## 🖼️ Layout
+
+O layout da aplicação é construído usando Bootstrap, tornando-o responsivo e acessível tanto em dispositivos móveis quanto em desktops.
+
 ## 🛠️ Instalação e Configuração
 
 Siga os passos abaixo para rodar o projeto localmente:
@@ -34,18 +38,6 @@ Siga os passos abaixo para rodar o projeto localmente:
 6. Inicie o servidor:
    npm start
 7. Acesse a aplicação no navegador através de http://localhost:3000.
-
-## 📚 Documentação da API
-
-Método	Rota	      Descrição  
-GET	   /jobs	      --Lista todas as vagas cadastradas  
-GET	   /jobs/:id	--Exibe detalhes de uma vaga  
-POST	   /jobs	      --Cadastra uma nova vaga  
-DELETE   /jobs/:id	--Exclui uma vaga  
-
-🖼️ Layout
-
-O layout da aplicação é construído usando Bootstrap, tornando-o responsivo e acessível tanto em dispositivos móveis quanto em desktops.
 
 ## 🤝 Contribuindo
 
