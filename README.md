@@ -37,11 +37,11 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ## 📚 Documentação da API
 
-Método	Rota	Descrição
-GET	/jobs	Lista todas as vagas cadastradas
-GET	/jobs/:id	Exibe detalhes de uma vaga
-POST	/jobs	Cadastra uma nova vaga
-DELETE	/jobs/:id	Exclui uma vaga
+Método	Rota	      Descrição  
+GET	   /jobs	      --Lista todas as vagas cadastradas  
+GET	   /jobs/:id	--Exibe detalhes de uma vaga  
+POST	   /jobs	      --Cadastra uma nova vaga  
+DELETE   /jobs/:id	--Exclui uma vaga  
 
 🖼️ Layout
 
