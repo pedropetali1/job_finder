@@ -40,15 +40,19 @@ Siga os passos abaixo para rodar o projeto localmente:
    npm start
 7. Acesse a aplicação no navegador através de http://localhost:3000.
 
-📚 Documentação da API
+## 📚 Documentação da API
+
 Método	Rota	Descrição
 GET	/jobs	Lista todas as vagas cadastradas
 GET	/jobs/:id	Exibe detalhes de uma vaga
 POST	/jobs	Cadastra uma nova vaga
 DELETE	/jobs/:id	Exclui uma vaga
+
 🖼️ Layout
+
 O layout da aplicação é construído usando Bootstrap, tornando-o responsivo e acessível tanto em dispositivos móveis quanto em desktops.
 
-🤝 Contribuindo
+## 🤝 Contribuindo
+
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para melhorias e correções.
    
